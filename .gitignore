@@ -1,0 +1,5 @@
+source/map/
+source/samples/
+*.fits
+__pycache__/
+.venv/
