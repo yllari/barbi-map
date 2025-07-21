@@ -17,4 +17,4 @@ If you want to generate your own map, you will need `Yllari_selected_data.fits` 
 use `cumul_red_ag_barbillon.fits`.
 
 There is also documentation compiled in `docs/build/html/`
-To navigate it, simply open `docs/build/html/index.html` in any browser.
+To navigate it, simply download to your computer and open `docs/build/html/index.html` in any browser.
