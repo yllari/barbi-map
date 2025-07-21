@@ -16,5 +16,5 @@ There are three important files:
 If you want to generate your own map, you will need `Yllari_selected_data.fits`. from the private folder data. If you want an out-of-the-box map, you can 
 use `cumul_red_ag_barbillon.fits`.
 
-There is also documentation compiled in `docs/build/html/`
+There is also documentation compiled in `docs/build/html/`.
 To navigate it, simply download all the repo to your computer and open `docs/build/html/index.html` in any browser.
