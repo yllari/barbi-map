@@ -6,7 +6,7 @@
 barbi-map documentation
 *********
 
-This is the (very short) documentation for Barbillon resulting cumulative map as derived by YGK.
+This is the (very short) documentation for the resulting cumulative map as derived by YGK with Barbillon's data.
 Some short explanations are tests are shown as well as an example on how to use it. 
 
 
